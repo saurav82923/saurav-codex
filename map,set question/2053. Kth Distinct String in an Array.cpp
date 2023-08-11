@@ -15,6 +15,6 @@ public:
             if(cnt == k)
                     return i;
         }
-        return "";
+        return "a";
     }
 };
